@@ -1,1 +1,1 @@
-turbocharger
+This project aims to create the simple software for balancing the turbocharger blade by defining the most proper position of each blade. Later the software itself will be able to import the excel file and then later the result output will be exported through this software.
